@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "563023234145",
+    "firebase_url": "https://materialx-95738.firebaseio.com",
+    "project_id": "materialx-95738",
+    "storage_bucket": "materialx-95738.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563023234145:android:37ba31a3341be157",
+        "android_client_info": {
+          "package_name": "com.material.components"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563023234145-7pbhukkq2786risr50rbatlj8013fk56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.material.components",
+            "certificate_hash": "78943d828070d23a544902c0c5835a135a0f1ff5"
+          }
+        },
+        {
+          "client_id": "563023234145-5p30ip4nvg6d57oo0e1pl2b9uitan8t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5eiXsg57-Kby-ZHoKOtswuVEOxunzre4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563023234145-5p30ip4nvg6d57oo0e1pl2b9uitan8t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
